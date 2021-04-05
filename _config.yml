@@ -1,0 +1,10 @@
+name: "AB Site Redesign Welcome"
+path: "/AB-Site-Welcome/"
+url: "http://joedono.github.io/AB-Site-Welcome/"
+exclude: [package.json, package-lock.json, README.md, app.js, node_modules]
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
